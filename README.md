@@ -56,5 +56,11 @@ I am a Junior Full Stack Developer currently pursuing a Bachelor's degree in Com
 <br />
 
 <!-- GitHub Stats Badges -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anakanashiro&show_icons=true&locale=en&layout=compact" alt="AnaKanashiro" /></p>
+<br />
+
+<!-- GitHub Stats Badges -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnaKanashiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Ana's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaKanashiro&layout=compact&theme=radical" alt="Top Languages" height="180" />
+</p>
 
